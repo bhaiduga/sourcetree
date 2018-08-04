@@ -1,2 +1,5 @@
 erste aenderung an foo.txt
+
 zweite aenderung an foo.txt
+
+dritte anderung
